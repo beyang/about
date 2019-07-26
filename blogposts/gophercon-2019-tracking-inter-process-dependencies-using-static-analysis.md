@@ -198,7 +198,8 @@ Here are the key structures in the `go/ast` package:
 
 ![image](https://user-images.githubusercontent.com/1646931/61969747-1d1b7180-af90-11e9-8315-ad554b3b6a32.png)
 
-SSA is the intermediate code representation:
+SSA is the intermediate code representation. A lot of analysis programs build the SSA representation
+and then analyze that:
 
 ![ssa](https://user-images.githubusercontent.com/1646931/61969750-1e4c9e80-af90-11e9-9e08-6ddce468fc20.png)
 
