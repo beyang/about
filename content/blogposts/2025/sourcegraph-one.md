@@ -46,6 +46,28 @@ specific organizations and enterprises.
 ![The omnibox UI component](https://storage.googleapis.com/sourcegraph-assets/blog/2025/sourcegraph-one/omnibox-only.png)
 
 {/*
+Usability notes
+- prompt text should prompt user to put in a keyword search or a chat request
+*/}
+
+
+You can execute a variety of actions from omnibox. You can search a specific repository for a component:
+
+<video autoPlay loop muted playsInline>
+    <source src="https://storage.googleapis.com/sourcegraph-assets/blog/2025/sourcegraph-one/omnibox-search-auth-provider.mp4" type="video/mp4" />
+</video>
+
+{/*
+Other videos
+- chat
+- context-aware question
+- generate code using specific components as an example
+*/}
+
+
+
+
+{/*
 
 TODO: points to cover
 - personalization
