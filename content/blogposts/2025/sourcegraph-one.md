@@ -57,6 +57,14 @@ You can execute a variety of actions from omnibox. You can search a specific rep
     <source src="https://storage.googleapis.com/sourcegraph-assets/blog/2025/sourcegraph-one/omnibox-search-auth-provider.mp4" type="video/mp4" />
 </video>
 
+You can also ask a question about that repository:
+
+<video autoPlay loop muted playsInline>
+    <source src="https://storage.googleapis.com/sourcegraph-assets/blog/2025/sourcegraph-one/omnibox-chat-auth.mp4" type="video/mp4" />
+</video>
+
+
+
 {/*
 Other videos
 - chat
